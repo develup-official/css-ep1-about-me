@@ -33,3 +33,4 @@
 - 고퀄리티 사진: https://unsplash.com
 - 구글 웹폰트: https://fonts.google.com
 - 메타뷰포트 태그: https://d.pr/zDyuDM
+- 12단 그리드시스템: http://d.pr/p7HAm5
